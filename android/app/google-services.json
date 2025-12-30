@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28095712212",
+    "project_id": "safety-app-3165a",
+    "storage_bucket": "safety-app-3165a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28095712212:android:6ae0dde860efe2c8af6441",
+        "android_client_info": {
+          "package_name": "com.example.ayesha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNWmsFO9Seamyv5W4oUnATN5H_3dCUEfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
